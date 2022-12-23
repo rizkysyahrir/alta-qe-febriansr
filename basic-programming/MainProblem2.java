@@ -1,4 +1,4 @@
-public class MainProblem2 {
+public class Palindrome {
         public static void main(String[] args) {
             System.out.println("coba edit 2");
             System.out.println(palindrome("civic"));
